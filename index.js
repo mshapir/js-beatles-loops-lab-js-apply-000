@@ -16,4 +16,10 @@ function johnLennonFacts(facts){
   return facts 
 }
 
-function 
+function iLoveTheBeatles(number){
+  var xyz = []
+  var indx = 0 
+  do{
+    
+  } while(indx < number)
+}
